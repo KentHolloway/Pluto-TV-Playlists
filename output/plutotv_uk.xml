@@ -20432,6 +20432,11 @@ Pacific Ocean and the San Andreas fault on America’s west coast.</desc>
         <desc>A man gets a last-chance job coaching a small-town Indiana high-school basketball team and faces the dual challenge of bringing this underdog team to the 1951 state championship and redeeming himself from a mysterious past.</desc>
         <icon src="https://images.pluto.tv/series/69d38dfb5228f72965528efd/tile_1775472124243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5ad8d3a31b95267e225e4e09" start="20260506145051 +0000" stop="20260506171900 +0000">
+        <title>Match Point</title>
+        <desc>At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.</desc>
+        <icon src="https://images.pluto.tv/series/69f1c2f198d8c86aa484a7f6/tile_1777451762044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5c363c2411c5ca053f198f97" start="20260506094439 +0000" stop="20260506115839 +0000">
         <title>The Internship</title>
         <desc>Old-school salesmen Billy (Vince Vaughn) and Nick (Owen Wilson) try to reboot their careers by joining Google’s fiercely competitive internship program — with hilarious results!</desc>
@@ -39715,8 +39720,8 @@ outside our own solar system.</desc>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20260506200000 +0000" stop="20260506200400 +0000">
         <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
+        <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20260506200400 +0000" stop="20260506214300 +0000">
         <title>Boxing</title>
@@ -41448,12 +41453,7 @@ outside our own solar system.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a7b01907e03a0008913e8f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65b3895660eb8700089e7f53" start="20260506220200 +0000" stop="20260506230100 +0000">
-        <title>Car Chase</title>
-        <desc>Watch adrenaline-fueled car chases and high-speed drama 24/7, including live coverage of real-time chases.</desc>
-        <icon src="https://images.pluto.tv/series/66b1301294a1840013947def/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65b3895660eb8700089e7f53" start="20260506230100 +0000" stop="20260507023000 +0000">
+    <programme channel="65b3895660eb8700089e7f53" start="20260506223000 +0000" stop="20260507023000 +0000">
         <title>Car Chase</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65b3895660eb8700089e7f53/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

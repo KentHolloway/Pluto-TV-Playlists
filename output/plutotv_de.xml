@@ -2986,15 +2986,10 @@
         <desc>Die Sendung zeigt Spiele des Pokalwettbewerbs im deutschen Vereinsbasketball der Herren.</desc>
         <icon src="https://images.pluto.tv/series/68a60ffb9889a990edd7c0d9/tile_1772104471160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6866525c8a412a0e95c438b4" start="20260506014200 +0000" stop="20260506045500 +0000">
-        <title>TTBL: Tischtennis Bundesliga</title>
-        <desc>Am Mittwoch, dem 15. April 2026, empfängt der 1. FC Saarbrücken-TT den SV Werder Bremen in der Tischtennis-Bundesliga. Die Partie des Hauptrunden-Spieltags beginnt um 19:00 Uhr. Die Übertragung startet um 18:40 Uhr.</desc>
-        <icon src="https://images.pluto.tv/series/68da7cefd70c07ace87bb7ba/tile_1763055089174.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6866525c8a412a0e95c438b4" start="20260506045500 +0000" stop="20260506055500 +0000">
-        <title>Dyn Highlights All Sports</title>
-        <desc>Dyn Sportmix zeigt die Sport-Highlights aus den Spielen des vergangenen Spieltags.</desc>
-        <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260506014200 +0000" stop="20260506023000 +0000">
+        <title>Dyn Sport Mix</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/featuredImage_1753770799936.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6870c9333ffa5e0c914e9205" start="20260505223000 +0000" stop="20260505230000 +0000">
         <title>Tennis Channel</title>
@@ -7911,10 +7906,30 @@
         <desc>Sam ist im Jahr 1972 und in der Person eines Professor. Er muss eine Hochzeit mit einer Studentin verhindern, da sonst beide nicht glücklich werden würden. Als Sam in der Person des Professors seine Jugendliebe trifft, wird die Aufgabe komplizierter.</desc>
         <icon src="https://images.pluto.tv/series/698092f48c4cf95f2a9ffb1c/tile_1770033909801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506023000 +0000" stop="20260506063000 +0000">
-        <title>Die Sieben-Millionen-Dollar-Frau</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/677fb078a4af36ad50111032/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="677fb078a4af36ad50111032" start="20260506015800 +0000" stop="20260506024900 +0000">
+        <title>The Bionic Woman</title>
+        <desc>Jaime entdeckt die Existenz des ersten bionischen Hundes und hat nur fünf Tage Zeit, ihn zu retten.</desc>
+        <icon src="https://images.pluto.tv/series/680ba43a30b839eca529c4e9/tile_1745593486101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb078a4af36ad50111032" start="20260506024900 +0000" stop="20260506034400 +0000">
+        <title>Bionic Woman</title>
+        <desc>Jaime und Max, der weltweit erste bionische Hund, geraten in der Sierra Nevada in einen gigantischen Waldbrand. Um rechtzeitig vor den alles verschlingenden Flammen in Sicherheit zu fliehen, muss das eingespielte Duo all seine Kräfte bündeln.</desc>
+        <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb078a4af36ad50111032" start="20260506034400 +0000" stop="20260506043900 +0000">
+        <title>Bionic Woman</title>
+        <desc>Der Sohn eines verrückten Wissenschaftlers reaktiviert dessen Armee der Roboter-Girls.</desc>
+        <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb078a4af36ad50111032" start="20260506043900 +0000" stop="20260506053600 +0000">
+        <title>Bionic Woman</title>
+        <desc>Der Sohn eines verrückten Wissenschaftlers verhandelt mit Jaime, Oscar und Dr. Wells über das Lösegeld für eine gefährliche Energiewaffe im Erdorbit. Die Bedrohung aus dem Weltraum zwingt die Gruppe zu schwierigen Verhandlungen mit ihm.</desc>
+        <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb078a4af36ad50111032" start="20260506053600 +0000" stop="20260506063300 +0000">
+        <title>Bionic Woman</title>
+        <desc>Jaime versucht, das Leben eines OSI-Wissenschaftlers zu retten, der Rodeo-Meister werden möchte.</desc>
+        <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67a324d221af380008105d6f" start="20260506020951 +0000" stop="20260506023706 +0000">
         <title>Eine schrecklich nette Familie</title>
@@ -8575,6 +8590,11 @@
         <title>Made In America</title>
         <desc>Als Zora Mathews sich auf die Suche nach ihrem biologischen, anonymen Samenspender-Vater macht, sind sie und ihre afrozentrische Mutter Sarah verblüfft, als dieser sich als der Weiße Hal Jackson entpuppt.</desc>
         <icon src="https://images.pluto.tv/series/607d5123f6870e001a5d5939/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5c5c3b948002db3c3e0b262e" start="20260506064624 +0000" stop="20260506082905 +0000">
+        <title>In &amp; Out - Rosa wie die Liebe</title>
+        <desc>Howard (Kevin Kline) wird vor einem Millionenpublikum als schwul geoutet - dabei ist er es gar nicht! Während er seine Hochzeit zu retten versucht, sucht Howard verzweifelt nach Wegen seine Männlichkeit zu beweisen.</desc>
+        <icon src="https://images.pluto.tv/series/67a0b830dd76f7001472d6a0/tile_1767752574508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d4947590ba40f75dc29c26b" start="20260506022423 +0000" stop="20260506024923 +0000">
         <title>Ugly Americans: Das Wahre Leben</title>
@@ -23186,25 +23206,20 @@
         <desc>Für spannende MMA Kämpfe und Live-Events schalte wieder um 22:00 Uhr ein!</desc>
         <icon src="https://images.pluto.tv/series/68a5bc56f84960586a2f02a1/tile_1755692119781.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6866525c8a412a0e95c438b4" start="20260506081200 +0000" stop="20260506104700 +0000">
-        <title>Volleyball Bundesliga Frauen</title>
-        <desc>Spannung, Teamgeist und sportliche Höchstleistungen: Die Volleyball-Bundesliga 2025/2026 bietet packende Duelle und Volleyball auf Top-Niveau. Woche für Woche kämpfen die Teams um wichtige Punkte und Platzierungen.</desc>
-        <icon src="https://images.pluto.tv/series/68aee704d2b4de67e6c650f9/tile_1756321775737.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260506094200 +0000" stop="20260506114200 +0000">
+        <title>Dyn Sport Mix</title>
+        <desc>Dyn Sport Mix zeigt Livesport und Hintergrundformate aus Handball, Basketball, Volleyball, Tischtennis und Hockey. Fans erwarten ausgewählte Spiele, Highlights, Re-Lives und Talks wie „Kretzsche &amp; Schmiso“ mit Analyse des aktuellen Handball-Geschehens.</desc>
+        <icon src="https://images.pluto.tv/series/68a7218a9889a990ed49db8d/tile_1755783564023.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6866525c8a412a0e95c438b4" start="20260506104700 +0000" stop="20260506114700 +0000">
-        <title>Dyn Highlights All Sports</title>
-        <desc>Dyn Sportmix zeigt die Sport-Highlights aus den Spielen des vergangenen Spieltags.</desc>
-        <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260506114200 +0000" stop="20260506134200 +0000">
+        <title>Dyn Sport Mix</title>
+        <desc>Dyn Sport Mix zeigt Livesport und Hintergrundformate aus Handball, Basketball, Volleyball, Tischtennis und Hockey. Fans erwarten ausgewählte Spiele, Highlights, Re-Lives und Talks wie „Kretzsche &amp; Schmiso“ mit Analyse des aktuellen Handball-Geschehens.</desc>
+        <icon src="https://images.pluto.tv/series/68a7218a9889a990ed49db8d/tile_1755783564023.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6866525c8a412a0e95c438b4" start="20260506114700 +0000" stop="20260506140300 +0000">
-        <title>Handball Bundesliga</title>
-        <desc>Aus der Schwalbe Arena in Cologne, North Rhine-Westphalia, Germany.</desc>
-        <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bd5d/tile_1755713588336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6866525c8a412a0e95c438b4" start="20260506140300 +0000" stop="20260506161900 +0000">
-        <title>Handball Bundesliga</title>
-        <desc>Aus der Porsche Arena in Stuttgart, Deutschland.</desc>
-        <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bd5d/tile_1755713588336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260506134200 +0000" stop="20260506154200 +0000">
+        <title>Dyn Sport Mix</title>
+        <desc>Dyn Sport Mix zeigt Livesport und Hintergrundformate aus Handball, Basketball, Volleyball, Tischtennis und Hockey. Fans erwarten ausgewählte Spiele, Highlights, Re-Lives und Talks wie „Kretzsche &amp; Schmiso“ mit Analyse des aktuellen Handball-Geschehens.</desc>
+        <icon src="https://images.pluto.tv/series/68a7218a9889a990ed49db8d/tile_1755783564023.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6870c9333ffa5e0c914e9205" start="20260506103000 +0000" stop="20260506110000 +0000">
         <title>Tennis Channel</title>
@@ -28381,27 +28396,27 @@
         <desc>Aus Angst um ihre eigene Identität tritt Jaime zurück und muss dann aus dem OSI fliehen.</desc>
         <icon src="https://images.pluto.tv/series/680ba43a30b839eca529c4e9/tile_1745593486101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506143700 +0000" stop="20260506152900 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506143700 +0000" stop="20260506153100 +0000">
         <title>Bionic Woman</title>
         <desc>Jaime Sommers wacht nach einer Gehirnoperation auf, bei der ihr bionische Implantate hinzugefügt wurden. Ein Teil ihrer Erinnerungen kehrt zurück, sie bezieht eine Wohnung und wird Lehrerin. Doch erst später erfährt sie, dass sie zuvor verlobt war.</desc>
         <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506152900 +0000" stop="20260506162400 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506153100 +0000" stop="20260506162600 +0000">
         <title>Bionic Woman</title>
         <desc>Oscar arrangiert ein fingiertes Zerwürfnis mit Jamie, damit sie in verdeckter Mission in der korrupten Organisation eines Geschäftsmannes arbeiten kann. Dort soll sie herausfinden, ob er gegen Geld Regierungsgeheimnisse verrät.</desc>
         <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506162400 +0000" stop="20260506172000 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506162600 +0000" stop="20260506172200 +0000">
         <title>Bionic Woman</title>
         <desc>Ein beliebter Schulbusfahrer, der zuvor untergetaucht war, wird von Bandenchefs aufgespürt.</desc>
         <icon src="https://images.pluto.tv/series/69a19d3f390140d1aa5fa342/tile_1772199232666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506172000 +0000" stop="20260506181400 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506172200 +0000" stop="20260506181600 +0000">
         <title>The Bionic Woman</title>
         <desc>Von einem Grundstück, das J.T. Connors gehört, wurde genau in dem Augenblick eine Rakete abgefeuert, als das Raketenwarnsystem der Regierung ausgefallen war. Jaime soll den mysteriösen Vorfall untersuchen und Connors überwachen.</desc>
         <icon src="https://images.pluto.tv/series/680ba43a30b839eca529c4e9/tile_1745593486101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506181400 +0000" stop="20260506190800 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506181600 +0000" stop="20260506191000 +0000">
         <title>The Bionic Woman</title>
         <desc>Jaimes Eltern wurden einst ermordet, während sie für das Verteidigungsministerium arbeiteten. Nun wird Jaime nachts von seltsamen Träumen gequält, in denen sie ihre Mutter sieht und die sie in große Unruhe versetzen.</desc>
         <icon src="https://images.pluto.tv/series/680ba43a30b839eca529c4e9/tile_1745593486101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -29477,6 +29492,11 @@
         <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64b67f0424ade50008a3be17" start="20260506173400 +0000" stop="20260506202800 +0000">
+        <title>Darts</title>
+        <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
+        <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64b67f0424ade50008a3be17" start="20260506202800 +0000" stop="20260506232100 +0000">
         <title>Darts</title>
         <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
         <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -41281,17 +41301,17 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/featuredImage_1770397003859.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506215200 +0000" stop="20260506224700 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506215400 +0000" stop="20260506224900 +0000">
         <title>The Bionic Woman</title>
         <desc>Ein von Außerirdischen kontrollierter Bigfoot greift Jaime an, als sie versucht, Steve zu retten.</desc>
         <icon src="https://images.pluto.tv/series/680ba43a30b839eca529c4e9/tile_1745593486101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506224700 +0000" stop="20260506233900 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506224900 +0000" stop="20260506234100 +0000">
         <title>The Bionic Woman</title>
         <desc>Jaime reist ins Zentrum der Country- und Western-Musikszene, wo sie sich als Country-Sängerin ausgibt, um Big Buck Buckley zu treffen und zu verhindern, dass streng geheime Informationen durch seine Musik weitergegeben werden.</desc>
         <icon src="https://images.pluto.tv/series/680ba43a30b839eca529c4e9/tile_1745593486101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb078a4af36ad50111032" start="20260506233900 +0000" stop="20260507023000 +0000">
+    <programme channel="677fb078a4af36ad50111032" start="20260506234100 +0000" stop="20260507023000 +0000">
         <title>Die Sieben-Millionen-Dollar-Frau</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677fb078a4af36ad50111032/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

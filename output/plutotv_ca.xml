@@ -7994,17 +7994,17 @@
     <programme channel="64a28c62d609b60008ca4933" start="20260505222654 +0000" stop="20260506003854 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Hasselborg and Team Yoshimura clash on the second day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260506003854 +0000" stop="20260506030240 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Xenia Schwaller and Team Constantini clash on the second day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260506030240 +0000" stop="20260506053025 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Jacobs and Team Epping clash on the second day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="654100b4bdf3cf0008aa49c7" start="20260505220008 +0000" stop="20260505223008 +0000">
         <title>MTV Classic</title>
@@ -8625,6 +8625,11 @@
         <title>Heaven's Gate</title>
         <desc>This ambitious frontier epic features a lawman (Kris Kristofferson) and a hitman (Christopher Walken) who fight in a tragic class war between ranchers and starving immigrants.</desc>
         <icon src="https://images.pluto.tv/series/69b37f238e5593ad0eb16494/tile_1773371172515.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20260506074800 +0000" stop="20260506105100 +0000">
+        <title>West Side Story</title>
+        <desc>Winner of ten Academy Awards including Best Picture, this electrifying musical sets the ageless tragedy of 'Romeo and Juliet' in the slums of 1950s New York and stars Natalie Wood, Richard Beymer, Russ Tamblyn, Rita Moreno, and George Chakiris.</desc>
+        <icon src="https://images.pluto.tv/series/69b37af27596d5087d1ecb5c/tile_1773370099060.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb5500c21270007218ce1" start="20260506021200 +0000" stop="20260506024300 +0000">
         <title>FailArmy: 50 vs. 50</title>
@@ -9670,6 +9675,11 @@
         <title>Alien Abduction</title>
         <desc>An 11-year-old autistic boy uses a camcorder to document his family's ill-fated camping trip and subsequent encounter with malevolent aliens.</desc>
         <icon src="https://images.pluto.tv/series/6940a4180c94b06078493fa6/tile_1765843994113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691e0561e32eb094b835c418" start="20260506064100 +0000" stop="20260506082500 +0000">
+        <title>A Haunted House</title>
+        <desc>Determined not to let a demon ruin his sex life, a man hires a priest, ghostbusters and others to banish an evil spirit from his possessed girlfriend.</desc>
+        <icon src="https://images.pluto.tv/series/69a71dc30aa5b14fac937cc7/tile_1772559812427.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69a9ae4d3bd16a4ed04240d7" start="20260506005700 +0000" stop="20260506025900 +0000">
         <title>Dressed to Kill</title>
@@ -15556,6 +15566,11 @@
         <desc>Semifinal, 1st Leg.</desc>
         <icon src="https://images.pluto.tv/series/6548c0573e6938001ad780cb/tile_1760370752136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20260506065900 +0000" stop="20260506090200 +0000">
+        <title>UEFA Champions League Soccer</title>
+        <desc>Semifinal, 1st Leg.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0573e6938001ad780cb/tile_1760370752136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6482f27c17f5e10008c10ff0" start="20260506020900 +0000" stop="20260506024000 +0000">
         <title>Arthur</title>
         <desc>When Muffy tries to bribe the judges at the school science fair, Francine and The Brain plot revenge. And D.W., a newly-deputized Junior Safety Officer, has a reputation for being a strict enforcer of the rules--well, OK, a tattle-tale.</desc>
@@ -15601,20 +15616,10 @@
         <desc>Wouldn't it be cool to find out that your ancestors were famous frontier explorers? But what if they were just...plain folks? The Magic Toolbox show is coming to Ratburn's class to put the kids on TV!</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a28c62d609b60008ca4933" start="20260506003854 +0000" stop="20260506030240 +0000">
-        <title>2025 HearingLife Canadian Open</title>
-        <desc>Team Xenia Schwaller and Team Constantini clash on the second day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64a28c62d609b60008ca4933" start="20260506030240 +0000" stop="20260506053025 +0000">
-        <title>2025 HearingLife Canadian Open</title>
-        <desc>Team Jacobs and Team Epping clash on the second day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64a28c62d609b60008ca4933" start="20260506053025 +0000" stop="20260506075920 +0000">
-        <title>2025 HearingLife Canadian Open</title>
-        <desc>Team Homan and Team Kitazawa clash on the first night of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64a28c62d609b60008ca4933" start="20260506023000 +0000" stop="20260506063000 +0000">
+        <title>Rock Channel</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/featuredImage_1758270365512.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="654100b4bdf3cf0008aa49c7" start="20260506020008 +0000" stop="20260506023008 +0000">
         <title>MTV Classic</title>
@@ -30849,22 +30854,22 @@
     <programme channel="64a28c62d609b60008ca4933" start="20260506075920 +0000" stop="20260506103152 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Dunstone and Team Retornaz clash on the second night of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260506103152 +0000" stop="20260506110009 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260506110009 +0000" stop="20260506132748 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Shuster and Team Gushue clash on the second night of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260506132748 +0000" stop="20260506154346 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Einarson and Team Wang clash on the second night of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="654100b4bdf3cf0008aa49c7" start="20260506100008 +0000" stop="20260506103008 +0000">
         <title>MTV Classic</title>
@@ -49269,12 +49274,12 @@
     <programme channel="64a28c62d609b60008ca4933" start="20260506200714 +0000" stop="20260506223050 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Mouat and Team Casper clash on the third day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260506223050 +0000" stop="20260507002807 +0000">
         <title>2025 HearingLife Canadian Open</title>
         <desc>Team Whyte and Team Edin clash on the third day of the HearingLife Canadian Open, live from Saskatoon, SK.</desc>
-        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778020677061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69e041f8e8d454788bbdfe16/tile_1778024275478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a28c62d609b60008ca4933" start="20260507002807 +0000" stop="20260507023000 +0000">
         <title>Rock Channel</title>
